@@ -52,21 +52,10 @@ h1 {
 
 .categoria-videos img:hover {
     opacity: 1.0;
+    border: 3px solid green;
 }
 
-
-  .categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
-  }
-  
-  section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
-  
-  
+.categoria h2 {
+  color: rgb(42, 122, 228);
+}
+ 
